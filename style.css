@@ -1,0 +1,43 @@
+
+header {
+    background-color: #a7c2ae;
+    color: #fff;
+    padding: 100px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #414244;
+    padding: 20px;
+}
+
+nav a {
+    
+    color: #fff;
+    margin: 0 20px;
+    
+}
+
+ .mydiv{
+    background-color: antiquewhite;
+    color:#514561;
+    text-align: center;
+    padding: 50px;
+
+ }
+
+.body-container{
+    background-color: #014E69;
+    color: #fff;
+    text-align: center;
+    padding: 300px;
+}
+
+footer {
+    background-color: #514561;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
